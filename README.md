@@ -1,6 +1,6 @@
 ## cpp-practical
 # practical 1
-![Screenshot 2025-03-16 224505](https://github.com/user-attachments/assets/046b57c8-e553-4921-9ab1-0dbfe74987a0)
+![Screenshot 2025-03-16 224505](https://github.com/user-attachments/assets/02dc1af8-e77a-49a9-a30d-d79766f3d569)
 # output
 ![Screenshot 2025-03-16 224524](https://github.com/user-attachments/assets/283ebf7f-40de-4ee7-a0ef-201003599933)
 # practical 2
